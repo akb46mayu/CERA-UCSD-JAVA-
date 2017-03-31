@@ -6,7 +6,7 @@ The applet has the following extensions:
 
 
 
-* Map providers are selected by keys:
+1. Map providers are selected by keys:
   * Hot keys are used to change the map providers for different user preferences. I use Microsoft’s aerial, road, and hybrid map providers (key1,2, and 3). Key c will clear and update the map.
 
 * Statistical information display (from all the countries)
