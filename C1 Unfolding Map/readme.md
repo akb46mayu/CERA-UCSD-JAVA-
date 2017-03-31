@@ -1,5 +1,5 @@
 
-# City map project 
+# City map project extension
 
 
 The applet has the following extensions:
