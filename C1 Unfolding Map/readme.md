@@ -17,7 +17,7 @@ The applet has the following extensions:
    * When the city has any nearby quakes (within a threat circle), the city name, country, number of nearby earthquakes, and average magnitude will be shown on the left hand side of the map.    
 4. The map background is replaced by a jpg image, which is nicer. The applet sorts earthquakes in reverse order of magnitude (step3,4) and also prints them in the console.
 
-![fig.1](images/show1.png)
+Format: ![fig.1](images/show1.png)
 
-![fig.1](images/show2.png)
+![fig.2](images/show2.png)
 
