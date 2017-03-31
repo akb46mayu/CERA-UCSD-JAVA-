@@ -1,11 +1,11 @@
 
 # City map project extension
+Fig.1 ![fig.1](images/show1.png)
+
+Fig.2  ![fig.2](images/show2.png)
 
 
 The applet has the following extensions:
-
-
-
 1. Map providers are selected by keys:
    * Hot keys are used to change the map providers for different user preferences. I use Microsoft’s aerial, road, and hybrid map providers (key1,2, and 3). Key c will clear and update the map.
 
@@ -17,7 +17,5 @@ The applet has the following extensions:
    * When the city has any nearby quakes (within a threat circle), the city name, country, number of nearby earthquakes, and average magnitude will be shown on the left hand side of the map.    
 4. The map background is replaced by a jpg image, which is nicer. The applet sorts earthquakes in reverse order of magnitude (step3,4) and also prints them in the console.
 
-Fig.1 ![fig.1](images/show1.png)
 
-Fig.2  ![fig.2](images/show2.png)
 
