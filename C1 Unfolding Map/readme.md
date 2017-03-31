@@ -15,7 +15,7 @@ The applet has the following extensions:
    * Key 5: display the location and magnitude information sorted by the magnitude in reverse order(up to 30). The right text box will be changed alternatively by clicking key 4 and 5.
 3. City statistics (when city marker is clicked on):
    * When the city has any nearby quakes (within a threat circle), the city name, country, number of nearby earthquakes, and average magnitude will be shown on the left hand side of the map.    
-4. The map background is replaced by a jpg image, which is nicer. It sorts earthquakes in reverse order of magnitude (step3,4) and also prints them in the console.
+4. The map background is replaced by a jpg image, which is nicer. The applet sorts earthquakes in reverse order of magnitude (step3,4) and also prints them in the console.
 
 
 
